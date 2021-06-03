@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of the apprentices of the city of Bristoll, to the apprentices of the honourable city of London. Together with their declaration for a free Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87997</idno><idno type="EEBO-CITATION">99867215</idno>
+  <idno type="VID">168781</idno>
+  <idno type="EEBO-PROQUEST">2240935437</idno>
+  
+            <idno type="STC">Wing L1577</idno>
+            <idno type="STC">Thomason E1015_20</idno>
+            <idno type="STC">ESTC R208250</idno>
+            <idno type="PROQUEST">99867215</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867215e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168781)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of the apprentices of the city of Bristoll, to the apprentices of the honourable city of London. Together with their declaration for a free Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for I. Pridmore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 16 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  Militia --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168781:1"/>
+            <p>A LETTER OF THE APPRENTICES OF THE <hi>CITY</hi> of <hi>BRISTOLL,</hi> TO THE Apprentices of the Honourable CITY OF LONDON.</p>
+            <p>Together with their DECLARATION FOR A FREE PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. Pridmore,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168781:2"/>
+            <pb n="3" facs="tcp:168781:2"/>
+            <head>A LETTER OF THE APPRENTICES.</head>
+            <opener>
+               <salute>VVorthy Sirs,</salute>
+            </opener>
+            <p>IT was our resolve to have presented the right Wor<g ref="char:EOLhyphen"/>shipful our Mayor, about the 20th. <hi>ult.</hi> with a Peti<g ref="char:EOLhyphen"/>tion; But we were prevented by his Order to hinder our meeting: Now, albeit it became abortive, as to its delivery (as aforesaid) yet, we have thought it requisite to send you this inclosed Copy thereof, where<g ref="char:EOLhyphen"/>by to satisfie both you and the World, that we were not ignorant of our reduction to the State of Villenage, nay, to a lower, had the Sword prevailed (then unsheathed in the Hand of the Souldier.) Neither is our condition of be<g ref="char:EOLhyphen"/>ing reprived from Slavery, any way to be expected by this late revolution, our hopes languishing as to the Nations redemption from out of its most strange vassalage not to be parallel'd in any Age to this day, unless God-Almigh<g ref="char:EOLhyphen"/>ty shall stir up you, and the Hearts, of the whole Peo<g ref="char:EOLhyphen"/>ple of the Land, to reserve our distressed Church, our Lives, Liberties, and Estates, out of the paw of this pretenced-Parliament, consisting not of above fourty, or fourty and
+<pb n="4" facs="tcp:168781:3"/>four Members, two whereof are in execution, and thereby a Scandal to the name of Parliaments; Befides, several of them Contrivers of their late Interruption. Seing so, our numble request is, that you would in this Juncture of time, now the Cause both of God and our Church, our Lives, Birthrights, Freedom from Slavery, Franchises, (as the Freeborn of this Commonwealth) future Estates, and Fortunes; together, with whatsoever else is dear and precious unto both your selves, and us too, lyes at Stake. We say, That you would quit your selves like Freeborn-English-Gallants, and play the Man by an undaunted courage, on the behalf of your and our God, Religion, and Country, to indeavour what in you lyes, either the read-mittance of all the Secluded-Members, without any Re<g ref="char:EOLhyphen"/>striction or Limitation (Their Seclusion and Denyal of that their Privilege (if it be Legal in the other there to Sit) being contrary to Law, and an un-Parliamentary practice, never heard of before) Or else, That the present pretenced-Parliament may dissolve; So as there may be a Free Legal Election of Knights, Citizens, and Burgesses, to be made in <hi>March</hi> next, according to the Tryennial Act, whereby (towards the procuring and quickning of Trade) peace may be made with the Crown of <hi>Spain,</hi> and the People may not be inforced to pay those illegal Taxes (now imposed on the Nation (to wit) of Contribution, Excise, Tonnage and Poundage, or subjected to free<g ref="char:EOLhyphen"/>quarter, (or have their Lives Subject to illegal Tryals, or Imprisonment of their Persons for unknown causes, with<g ref="char:EOLhyphen"/>out Legal Tryal by the verdict of their Country, together with Extortions, Seisures, of their Goods, and Estates, contrary to Law) unlesse by their full and free consent (not of fourty only) but of all their Representatives in a full and Free Parliament; And we shall endeavour the like here, by our importunate Petitions to our said Mayor, to declare to the intent aforesaid, and to stand thereunto,
+<pb n="5" facs="tcp:168781:3"/>though not in point of Judgement, as to the interest of a single person; unlesse (as aforesaid) by the Peoples con<g ref="char:EOLhyphen"/>sents in a full and Free Parliament, as perhaps will be falsly suggested; Yet in point of Right, as to the repri<g ref="char:EOLhyphen"/>val of the said Peoples Birthrights, and Ancestral-right from that Vassalage, both we and they mightily sigh and groan under at this day. Thus, praying to the only wise God for his blessing, on these your desired, hoped, and well-wished endeavours, and ours too, do subscribe our selves,</p>
+            <closer>
+               <dateline>
+                  <hi>Bristol</hi>
+                  <date>the 9th. of <hi>February</hi> 1659.</date>
+               </dateline>
+               <salute>SIR, </salute>
+               <signed>Your humbly devoted Servants and Fellow-Apprentices, and ever obliged Ser<g ref="char:EOLhyphen"/>vants and Friends.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>THE DECLARATION.</head>
+            <p>WHereas by the good and most wholesom Lawes of this Nation, which are our
+<note place="margin">(a) St. 34 Ed. 1. cap. 1.29 Hen. 3.29.25 Ed. 1.5, 6. 21 Ed. 3. Rot. Parl. n. 16.25 Ed. 3. cap. 8.36 Ed. 3. R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Pail. n. 10. 1 R. 3.2. the Petition of Right, 3 Car. the Votes and Acts against Ship - money and Knight<g ref="char:EOLhyphen"/>hood, Tonnage and Poun<g ref="char:EOLhyphen"/>dage, and Star-chamber, 17, 18 Car.</note> birth-rights, No Tax, Aid, Tallage, Contribution, Loan, Excise, Imposition, or Assessement whatsoever, ought to be imposed, or levyed on the Fr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-men of this Land, but by their common-con<g ref="char:EOLhyphen"/>sent, in a free, and legal Parlia<g ref="char:EOLhyphen"/>ment, consisting (not of forty, but of all their Represen<g ref="char:EOLhyphen"/>tatives, by Act of Parliament. And whereas by the se<g ref="char:EOLhyphen"/>veral
+<pb n="6" facs="tcp:168781:4"/>Statutes against Purveyers, the expresse Letter of the Petition of Right, 3 <hi>Caroli,</hi> ratified 17th. of the late Kings Reign; the Declaration of the House of Commons, dated 15 <hi>December,</hi> 1641, the Act of Parliament, 12 <hi>May,</hi> 1649, &amp;c. Free-quarter is declared illegal, and not to be forced in any wise, on the Free-men of this Land: and all Mayors and Constables, are thereby strictly charged and commanded, to rescue, and defend the said people, from, and against the same: and from, and against all man<g ref="char:EOLhyphen"/>ner of extortions, seisures, and taking away their goods, by free quarter, &amp;c. as aforesaid, upon pain to yield to the parties grieved, the full value of such
+<note place="margin">(b) St. 2. Hen. 4. cap. 14.20 Hen. 6.8. 23 H 6.1, 2, 14. 2 &amp; 3 Ph. &amp; M. 6. 1 H. 4. N. 22.</note> goods, with double dammages. And where<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the on<g ref="char:EOLhyphen"/>ly
+<note place="margin">(c) 39 Ed. 3. fo. 7.4. Hen. 4. fo. 10. Brook Parl. 26, 40. Coke, 4 Instit. p. 1.25, 26. 1 Jacob. cap. 1.</note> Reason in Law and Equity, why Taxes, or Acts of Par<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ament oblige any County, City, Bur<g ref="char:EOLhyphen"/>rough or person, is, because they are parties, and consenting there<g ref="char:EOLhyphen"/>unto, either in proper person, or by their Representatives in Parliament, legally chosen; it being a received Maxim in all Lawes, <hi>Quod tangit omnes, ab omnibus debet approbari.</hi> Upon which reason, it hath been oftentimes
+<note place="margin">(d) 49 Edw. 3. fo. 18, 19. 21 Hen. 7.4. Brook Customs, fo. 6 v. 3.</note> adjudged, that By-Lawes oblige only those who are parties, and consent unto them, but not strangers, or such as consented not thereto: and therefore it is enacted, 2 <hi>Ed.</hi> 6. cap. 28. that fines with proclamation shall be in <hi>Chester.</hi> The like in <hi>Lancaster,</hi> 5 and 6 <hi>Ed.</hi> 6. cap. 26. for that the former statutes did not extend to them, having had no Knights or Burgesses appointed for the County Palatines, till the 27 <hi>H.</hi> 8. cap. 5, as in cap. 26. appeareth. Besides, the Statute of Justices, extended not to <hi>Wales,</hi> nor to the said County Palatine of <hi>Chester,</hi> for the reason aforesaid, and therefore an Act was
+<pb n="7" facs="tcp:168781:4"/>made for <hi>Wales</hi> and <hi>Chester,</hi> 27 <hi>Hen.</hi> 8. cap. 5. by the same Parliament, that appointed them Knights and Burgesses, as by the Statute aforesaid clearly appeareth. Now if Acts of Parliament bound not <hi>Wales,</hi> and County Palatines, <hi>viz. Chester,</hi> and <hi>Lancaster,</hi> which had antiently no Knights and Burgesses in Parliament, for to represent them, because they neither personally, nor representatively were par<g ref="char:EOLhyphen"/>ties; and consentors thereto, much lesse then can, or ought any Levy or Tax be imposed on, or any Act, or Order of this Parliament, bind this City unto any obedience there<g ref="char:EOLhyphen"/>unto, these Citizens not having any one Representative, to consent to any such imposition, or Act, by the said Parliament made, since the death of the Burgesses of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s City.</p>
+            <p>Now, in as much as we are informed, that notwith<g ref="char:EOLhyphen"/>standing this City hath paid their Contribution, till the 25. <hi>June</hi> next, yet there is a new tax of contribution co<g ref="char:EOLhyphen"/>ming forth, of 100, or 120 thousand pounds a month, to the utter impoverishing of this Nation, it being more than, or double the former contribution, and to com<g ref="char:EOLhyphen"/>mence to from the 25 of <hi>December</hi> last; And to the end, this City may be compeled to submit thereunto, and pay the same, several Companies of Foot, and Troops of Horse, are on their march towards the said City, to collect the said intollerable Tax by force, and to quarter here on free quarter, as undoubtedly will be the consequent there<g ref="char:EOLhyphen"/>of, to the impoverishment of our Masters, and the inevi<g ref="char:EOLhyphen"/>table ruine of this City, if <hi>Issacbar</hi>-like, they should con<g ref="char:EOLhyphen"/>discend thereunto. We the Apprentices of this City, do therefore declare in the presence of Almighty God, that we have put our selves in this posture, only, to protect this City (what in us lies) against the force, and free quar<g ref="char:EOLhyphen"/>ter, rapine, and violence of the Souldier (having a while since been experienced of their Vassalage) and against the
+<pb n="8" facs="tcp:168781:5"/>Parliament of the aforesaid Tax of Contribution, and all other Taxes, that shall be on our said Masters, and this said City imposed, till their Representatives shall Sir and Act in Parliament, to the accomplishment of this our Resolve, we shall adventure, and sacrifice our Lives (seing the Majestrates have refused to answer our Petiti<g ref="char:EOLhyphen"/>on to them made, to the end, and purpose, as aforesaid; Hoping that all others, the Inhabitants of this City and Burgesses thereof, will with heart and hand, both coun<g ref="char:EOLhyphen"/>tenance and joyn with us, in this great work, which we have undertaken, not for any advantage or private ends of our own, but for their and the Publick Good; If not, the Vassalage, Slavery, and Improvement will be theirs, and the cause thereof theirs, and not ours, who this day do freely hazard our Lives for their, and the whole Cities Welfare, and Reprival from Taxes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
